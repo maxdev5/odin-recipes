@@ -1,0 +1,20 @@
+body{
+    background-color: orange;
+    text-align: center;
+}
+.broccoli{
+    background-color: green;
+    color: black;
+}
+.calzone{
+    background-color: tan;
+}
+.mushroom{
+    background-color: grey;
+}
+.broccoli,
+.calzone,
+.mushroom{
+font-weight: bolder;
+font-size: 40px;
+}
