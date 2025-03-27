@@ -4,10 +4,20 @@ body{
 }
 .broccoli{
     background-color: green;
-    color: black;
+    display: block;
+    width: 10em;
+    height: auto;
+    margin-left: 10.8em;
+    margin-bottom: 25px;
+    padding-left: 10px;
 }
 .calzone{
     background-color: tan;
+    display: block;
+    width: 4em;
+    height: auto;
+    margin-left: 14em;
+    margin-bottom: 25px;
 }
 .mushroom{
     background-color: grey;
@@ -17,4 +27,7 @@ body{
 .mushroom{
 font-weight: bolder;
 font-size: 40px;
+}
+li{
+    list-style-type: none;
 }
